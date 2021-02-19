@@ -1,0 +1,87 @@
+img
+{
+   
+    position: absolute;
+    top: auto;
+    right: 900px;
+}
+.Img2
+{
+    position: absolute;
+    top: auto;
+    right: 520px;
+}
+.Img3
+{
+    position: absolute;
+    top: auto;
+    right: 110px;
+}
+video
+{
+    position: absolute;
+    top: 500px;
+    right: 250px;
+    width: 800px;
+    height: 300px;
+    border:thick;
+}
+.h3a
+{
+    position: absolute;
+    top: 850px;
+    left: 70px;
+}
+.ul1
+{
+    position: absolute;
+    top: 900px;
+    left: 50px;
+    font-size: 14pt;
+    
+}
+.h3d
+{
+    position: absolute;
+    top: 1040px;
+    left: 70px;
+}
+.h3b
+{
+    position: absolute;
+    top: 1100px;
+    color: #0000FF;
+    left: 70px;
+}
+.h5a
+{
+    position: absolute;
+    top: 1130px;
+    left: 70px;
+}
+.h3c
+{
+    position: absolute;
+    top: 1180px;
+    
+    left: 70px;
+}
+.h3e
+{
+    position: absolute;
+    top: 1240px;
+    color: #0000FF;
+    left: 70px;
+}
+.h5b
+{
+    position: absolute;
+    top: 1270px;
+    left: 70px;
+}
+.Gif
+{
+    position: absolute;
+    top: 850px;
+    left: 1500px;
+}
